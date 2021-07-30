@@ -1,0 +1,8 @@
+{  
+    "userId": 1,  
+    "name": "Rajesh",  
+    "mailId": "rajesh@gmail.com",  
+    "password": "rajesh@123",
+    "phoneNo": 1234567890,
+    "location": "Anantapur" 
+}
